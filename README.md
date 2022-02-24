@@ -4,7 +4,7 @@
  
  - How to contact me 
 - Discord: baraa1936#0905
-- Twiter: baraa1936
+- Twitter: baraa1936
  
 <!---
 baraa1936/baraa1936 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
