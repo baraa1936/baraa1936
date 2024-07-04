@@ -3,8 +3,8 @@
 - I’m currently learning javascript | html | css
  
  - How to contact me 
-- Discord: baraa1936#0905
-- Twitter: baraa1936
+- Discord: baraa1936
+- Twitter: @BaraaHabrah
  
 <!---
 baraa1936/baraa1936 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
